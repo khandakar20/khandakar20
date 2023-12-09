@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: khandakar20/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ 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}}
         with:
